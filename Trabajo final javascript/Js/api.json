@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "alfombra1.jpeg",
+    "nombre": "ALFOMBRA CIRCULOS",
+    "tamaño": "150x120",
+    "precio": 14000
+  },
+
+  {
+    "id": 2,
+    "img": "escritorio1.webp",
+    "nombre": "ESCRITORIO 4 CAJONES",
+    "tamaño": "70x80x60",
+    "precio": 25000
+  },
+
+  {
+    "id": 3,
+    "img": "alfombra2.jpeg",
+    "nombre": "ALFOMBRA CON PELUSO",
+    "tamaño": "100x100",
+    "precio": 15000
+  },
+
+  {
+    "id": 4,
+    "img": "escritorio2.jpg",
+    "nombre": "ESCRITORIO 2 CAJONES",
+    "tamaño": "50z70x60",
+    "precio": 30000
+  },
+
+  {
+    "id": 5,
+    "img": "lampara1.png",
+    "nombre": "LAMPARA NEGRA DE TECHO",
+    "tamaño": "15x30",
+    "precio": 10000
+  },
+  {
+    "id": 6,
+    "img": "sillon1.jpg",
+    "nombre": "SILLON INDIVIDUAL",
+    "tamaño": "60x40x20",
+    "precio": 25000
+  },
+  {
+    "id": 7,
+    "img": "silla2.jpg",
+    "nombre": "SILLA CON ESTERILLA",
+    "tamaño": "60x50x30",
+    "precio": 8500
+  },
+  {
+    "id": 8,
+    "img": "silla1.jpg",
+    "nombre": "SILLA JUNCAL",
+    "tamaño": "70x45x25",
+    "precio": 8000
+  }
+]
